@@ -2,7 +2,6 @@
 - React
 - vite
 - Bootstrap
-- Axios
 - React Toastify
 
 
